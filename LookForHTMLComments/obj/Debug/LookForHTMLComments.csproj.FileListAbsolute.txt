@@ -1,0 +1,6 @@
+E:\Work\Writing Dev\Digital Forensics Magazine\LookForHTMLComments\LookForHTMLComments\bin\Debug\LookForHTMLComments.exe.config
+E:\Work\Writing Dev\Digital Forensics Magazine\LookForHTMLComments\LookForHTMLComments\bin\Debug\LookForHTMLComments.exe
+E:\Work\Writing Dev\Digital Forensics Magazine\LookForHTMLComments\LookForHTMLComments\bin\Debug\LookForHTMLComments.pdb
+E:\Work\Writing Dev\Digital Forensics Magazine\LookForHTMLComments\LookForHTMLComments\obj\Debug\LookForHTMLComments.csprojResolveAssemblyReference.cache
+E:\Work\Writing Dev\Digital Forensics Magazine\LookForHTMLComments\LookForHTMLComments\obj\Debug\LookForHTMLComments.exe
+E:\Work\Writing Dev\Digital Forensics Magazine\LookForHTMLComments\LookForHTMLComments\obj\Debug\LookForHTMLComments.pdb
